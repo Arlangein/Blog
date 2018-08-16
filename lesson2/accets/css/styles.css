@@ -1,0 +1,82 @@
+body{
+  background-image: url(/accets/img/jj.jpg);
+}
+.h1{
+margin-left: 700px;
+  height: 60px;
+  width: 450px;
+  font-size: 40px;
+  font-family: sans-serif;
+  color: #000000;
+  background: #faf0f1;
+}
+.h2{
+  margin-left: 200px;
+  margin-top: 10px;
+  height: auto;
+  width: 450px;
+  font-size:30px;
+  font-family: sans-serif;
+  color: #000000;
+  text-shadow: 1px 1px 0 #ffffff, -1px -1px 0 #ffffff;
+  background-image: url(/accets/img/gg.jpg);
+}
+.h3{
+  margin-left: 200px;
+  margin-top: 10px;
+  height: auto;
+  width: 450px;
+  font-size:30px;
+  font-family: sans-serif;
+  color: #000000;
+  text-shadow: 1px 1px 0 #ffffff, -1px -1px 0 #ffffff;
+background-image: url(/accets/img/tt.jpg);
+}
+p{
+  border-style: groove;
+  padding: 5px;
+}
+.h4{
+  margin-left: 700px;
+  margin-top: -705px;
+  height: auto;
+  width: 450px;
+  font-size:30px;
+  font-family: sans-serif;
+  color: #000000;
+  text-shadow: 1px 1px 0 #ffffff, -1px -1px 0 #ffffff;
+  background-image: url(/accets/img/сoffee.jpg);
+}
+.h5{
+  margin-left: 700px;
+  margin-top: 0px;
+  height: auto;
+  width: 450px;
+  font-size:30px;
+  font-family: sans-serif;
+  color: #000000;
+  text-shadow: 1px 1px 0 #ffffff, -1px -1px 0 #ffffff;
+  background-image: url(/accets/img/hh.jpg);
+}
+.h6{
+  margin-left: 1180px;
+  margin-top: -635px;
+  height: auto;
+  width: 450px;
+  font-size:30px;
+  font-family: sans-serif;
+  color: #000000;
+  text-shadow: 1px 1px 0 #ffffff, -1px -1px 0 #ffffff;
+  background-image: url(/accets/img/jaj.jpg);
+}
+.h7{
+  margin-left: 1180px;
+  margin-top: 0px;
+  height: auto;
+  width: 450px;
+  font-size:30px;
+  font-family: sans-serif;
+  color: #000000;
+  text-shadow: 1px 1px 0 #ffffff, -1px -1px 0 #ffffff;
+  background-image: url(/accets/img/tat.jpg);
+}
